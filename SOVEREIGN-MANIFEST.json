@@ -1,31 +1,31 @@
 {
   "name": "SOVEREIGN",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A sovereign operating system framework",
   "components": {
     "core": {
       "description": "Fundamental system components",
-      "version": "0.1.0"
+      "version": "1.0.0"
     },
     "kernel": {
       "description": "Core kernel implementation",
-      "version": "0.1.0"
+      "version": "1.0.0"
     },
     "agentic": {
       "description": "Autonomous agent frameworks",
-      "version": "0.1.0"
+      "version": "1.0.0"
     },
     "mesh": {
       "description": "Peer-to-peer networking",
-      "version": "0.1.0"
+      "version": "1.0.0"
     },
     "governance": {
       "description": "Policy and governance systems",
-      "version": "0.1.0"
+      "version": "1.0.0"
     },
     "installer": {
       "description": "Installation and deployment tools",
-      "version": "0.1.0"
+      "version": "1.0.0"
     }
   },
   "dependencies": {},
