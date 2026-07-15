@@ -1,0 +1,11 @@
+{
+  "chain": "ethereum",
+  "label": "treasury",
+  "address": null,
+  "privateKey": null,
+  "mnemonic": null,
+  "created": "2026-07-15T09:21:50.0452790-06:00",
+  "balance": "0",
+  "status": "active",
+  "transactions": []
+}

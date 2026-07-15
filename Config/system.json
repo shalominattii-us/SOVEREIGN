@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-07-15T09:02:46.2572002-06:00",
+  "version": "Build 73",
+  "agents": {
+    "total": 19,
+    "tier3": 5,
+    "tier1": 5,
+    "gold": 4,
+    "tier2": 5
+  },
+  "ports": {
+    "SOV-OLLAMA": 11434,
+    "SOV-WIREGUARD": 51820,
+    "SOV-GOLD-WS": 9556,
+    "SOV-APP": 3000,
+    "SOV-MESH": 8080,
+    "SOV-GOLD": 9555,
+    "SOV-DASHBOARD": 8443
+  },
+  "system": {
+    "instanceId": "6997fb6b-11ea-47e7-b966-d9a29aacdaa7",
+    "startTime": "2026-07-15T09:02:46.2620073-06:00",
+    "status": "Active",
+    "type": "CyberneticSovereign",
+    "name": "Eagle Shield Unified Sovereign System"
+  },
+  "reality": {
+    "layers": 9,
+    "persistence": [
+      "immutable",
+      "durable",
+      "ephemeral"
+    ]
+  },
+  "modules": {
+    "total": 15,
+    "deployed": true
+  },
+  "security": {
+    "signatures": "Ed25519",
+    "encryption": "AES-256-GCM",
+    "hashing": "SHA-256",
+    "consensus": "BFT"
+  }
+}

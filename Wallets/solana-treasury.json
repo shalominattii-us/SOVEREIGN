@@ -1,0 +1,11 @@
+{
+  "created": "2026-07-15T09:25:02.6725476-06:00",
+  "isNonEvm": true,
+  "balance": "0",
+  "address": "PbQqFgnGytGkd0QcwPkLM8qGAyB5Z5yUVlw9MrErV8",
+  "chain": "solana",
+  "privateKey": "0x3db42a1609c6cad1a477441cc0f90b33ca86032079679c94565c3d32b12bf95f",
+  "mnemonic": "NON_EVM_WALLET_solana",
+  "status": "active",
+  "label": "treasury"
+}

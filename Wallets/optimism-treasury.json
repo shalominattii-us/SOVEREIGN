@@ -1,0 +1,11 @@
+{
+  "chain": "optimism",
+  "label": "treasury",
+  "address": null,
+  "privateKey": null,
+  "mnemonic": null,
+  "created": "2026-07-15T09:21:53.8285195-06:00",
+  "balance": "0",
+  "status": "active",
+  "transactions": []
+}

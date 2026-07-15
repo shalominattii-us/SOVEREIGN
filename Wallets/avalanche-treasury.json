@@ -1,0 +1,11 @@
+{
+  "created": "2026-07-15T09:25:02.6909652-06:00",
+  "isNonEvm": true,
+  "balance": "0",
+  "address": "0x3db97d18b2bf3960b082cc36f327b6bc557d580b",
+  "chain": "avalanche",
+  "privateKey": "0x54b87e57e041a32d964401c19c8b51bbb310f365cfd46409dc74c7c43dff490e",
+  "mnemonic": "NON_EVM_WALLET_avalanche",
+  "status": "active",
+  "label": "treasury"
+}

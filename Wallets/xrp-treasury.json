@@ -1,0 +1,11 @@
+{
+  "created": "2026-07-15T09:25:02.7057995-06:00",
+  "isNonEvm": true,
+  "balance": "0",
+  "address": "r2220141713b51d137f22152316217121ae17e1b44111613159d1919",
+  "chain": "xrp",
+  "privateKey": "0x9bde54a161784e0be6620468169e71263bd17a2a8892d40518a794b410112c7e",
+  "mnemonic": "NON_EVM_WALLET_xrp",
+  "status": "active",
+  "label": "treasury"
+}

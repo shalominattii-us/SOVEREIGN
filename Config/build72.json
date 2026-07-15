@@ -1,0 +1,159 @@
+{
+  "gold_dome": {
+    "port": 9555,
+    "wsPort": 9556,
+    "enabled": false
+  },
+  "mesh": {
+    "propagationTimeout": 5000,
+    "consensusThreshold": 51,
+    "maxNodes": 100,
+    "enabled": false
+  },
+  "timestamp": "2026-07-14T21:20:20.0660469-06:00",
+  "continuity": {
+    "causalityLevel": "STRONG",
+    "replayable": true,
+    "eventTypes": [
+      "Universe",
+      "Presence",
+      "Hologram",
+      "Ledger",
+      "Treasury",
+      "Compliance",
+      "Authority",
+      "Reality"
+    ],
+    "enabled": false
+  },
+  "system": {
+    "status": "Active",
+    "startTime": "2026-07-14T21:20:20.074683-06:00",
+    "name": "Eagle Shield Unified Sovereign System",
+    "type": "CyberneticSovereign",
+    "instanceId": "3316360d-8ccb-4cf4-8cb8-813ccb6891b3"
+  },
+  "self_heal": {
+    "memoryThreshold": 0.9,
+    "circuitBreakerThreshold": 5,
+    "circuitBreakerReset": 30000,
+    "monitorInterval": 5000,
+    "latencyThreshold": 5000,
+    "enabled": false,
+    "errorRateThreshold": 10
+  },
+  "authority": {
+    "capabilities": [],
+    "levels": [
+      "sovereign",
+      "commander",
+      "operator",
+      "cadet"
+    ],
+    "enabled": false
+  },
+  "federation": {
+    "enabled": false,
+    "quorumRules": {
+      "federation_governance": 51,
+      "authority_elevation": 51,
+      "charter_creation": 51,
+      "commander_decision": 66,
+      "sovereign_decision": 51,
+      "capability_grant": 66
+    }
+  },
+  "integrity": {
+    "factorWeights": {
+      "meshConsensus": 0.15,
+      "anomalyDetection": 0.1,
+      "historicalBehavior": 0.2,
+      "contextRisk": 0.25,
+      "actorReputation": 0.3
+    },
+    "anomalyThreshold": 0.7,
+    "enabled": false
+  },
+  "reality": {
+    "enabled": false,
+    "layers": [
+      {
+        "id": "origin",
+        "name": "Physical Reality",
+        "index": 0,
+        "persistence": "immutable"
+      },
+      {
+        "id": "meta",
+        "name": "Digital Substrate",
+        "index": 1,
+        "persistence": "immutable"
+      },
+      {
+        "id": "hyperreality",
+        "name": "Quantum Overlay",
+        "index": 2,
+        "persistence": "immutable"
+      },
+      {
+        "id": "omniverse",
+        "name": "Temporal Dimension",
+        "index": 3,
+        "persistence": "durable"
+      },
+      {
+        "id": "reality",
+        "name": "Consensus Layer",
+        "index": 4,
+        "persistence": "durable"
+      },
+      {
+        "id": "multiverse",
+        "name": "Authority Plane",
+        "index": 5,
+        "persistence": "durable"
+      },
+      {
+        "id": "immersion",
+        "name": "Compliance Domain",
+        "index": 6,
+        "persistence": "ephemeral"
+      },
+      {
+        "id": "portal",
+        "name": "Immersive Realm",
+        "index": 7,
+        "persistence": "ephemeral"
+      },
+      {
+        "id": "primordium",
+        "name": "Sovereign Essence",
+        "index": 8,
+        "persistence": "ephemeral"
+      }
+    ]
+  },
+  "tsl": {
+    "thresholdM": 2,
+    "chains": 9,
+    "thresholdN": 3,
+    "globalCap": 1000000000000000000,
+    "enabled": false
+  },
+  "version": "Build 72",
+  "nanotransaction": {
+    "maxPacketsPerArena": 1000,
+    "arenaTTL": 300000,
+    "packetTTL": 60000,
+    "maxValuePerArena": 100,
+    "enabled": false
+  },
+  "agents": {
+    "tier3": 5,
+    "gold": 4,
+    "tier1": 5,
+    "tier2": 5,
+    "enabled": false,
+    "total": 19
+  }
+}

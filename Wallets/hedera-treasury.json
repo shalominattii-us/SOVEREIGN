@@ -1,0 +1,11 @@
+{
+  "created": "2026-07-15T09:25:02.7105276-06:00",
+  "isNonEvm": true,
+  "balance": "0",
+  "address": "0.0.254347",
+  "chain": "hedera",
+  "privateKey": "0xfcfcfc8666e24a04e71a80ed26dddd80fd5eae56ac8ca97fe3be353ecd133ecb",
+  "mnemonic": "NON_EVM_WALLET_hedera",
+  "status": "active",
+  "label": "treasury"
+}

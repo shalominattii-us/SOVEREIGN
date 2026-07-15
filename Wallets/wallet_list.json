@@ -1,0 +1,47 @@
+{
+  "optimism": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "polygon": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "ethereum": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "solana": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "arbitrum": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "hedera": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "base": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "avalanche": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  },
+  "xrp": {
+    "address": null,
+    "privateKey": null,
+    "label": "treasury"
+  }
+}
